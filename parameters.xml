@@ -1,5 +1,5 @@
 <parameters>
-  <setParameter 
-    name="IIS Web Application Name" 
-    value="Default Web Site" />  
-</parameters>
+  <setParameter
+    name="IIS Web Application Name"
+    value="codestockdevops" />
+ </parameters>
