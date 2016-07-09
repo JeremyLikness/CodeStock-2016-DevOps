@@ -8,8 +8,8 @@ import '../../public/css/styles.css';
 export class AppComponent { 
 
     public now: Date; 
-    
+
     constructor() {
-        this.now = new Date();
+        //this.now = new Date();
     }
 }
