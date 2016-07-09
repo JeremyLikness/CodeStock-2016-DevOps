@@ -7,9 +7,9 @@ import '../../public/css/styles.css';
 })
 export class AppComponent { 
 
-    public now: string; 
+    public now: Date; 
 
     constructor() {
-        this.now = "July 14, 2016";
+        this.now = new Date();
     }
 }
